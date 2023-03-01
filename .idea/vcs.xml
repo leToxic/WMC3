@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WMC3-Angular" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WMC3-Backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WMC3-Express" vcs="Git" />
   </component>
 </project>
